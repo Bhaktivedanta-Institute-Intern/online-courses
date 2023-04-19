@@ -1,0 +1,19 @@
+@media screen and (max-width:359px){
+    .chat_container{
+       
+        width:95% !important;
+        margin: auto;
+       
+    }
+    .chatbot{
+        width:100% !important;
+        
+        left:1px;
+        right:1px;
+    }
+    .logo_chatbot{
+        position: absolute;
+        right:5px;
+        bottom: 0;
+    }
+}
