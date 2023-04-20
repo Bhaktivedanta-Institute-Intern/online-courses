@@ -130,7 +130,7 @@ li,
 }
 
 #o-banner {
-  background: url(/images/Home\ Page\ Image.jpg);
+  background-image: url(/images/Home\ Page\ Image.jpg);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: 5% -40px;
@@ -419,9 +419,7 @@ td {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
 
 }
-.nav-item{
-  
-}
+
 .my-1{
   font-size: smaller;
 }
