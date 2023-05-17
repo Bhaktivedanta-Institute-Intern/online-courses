@@ -130,7 +130,7 @@ li,
 }
 
 #o-banner {
-  background: url(/images/Home\ Page\ Image.jpg);
+  background-image: url(/images/Home\ Page\ Image.jpg);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: 5% -40px;
@@ -419,12 +419,14 @@ td {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
 
 }
-.nav-item{
-  
-}
+
 .my-1{
   font-size: smaller;
 }
 .d-inline{
+<<<<<<< HEAD
   font-size:1rem;;
+=======
+  font-size: 1rem;
+>>>>>>> 67bdc47fed4ffb22e862bc128bd7069e244a4622
 }
